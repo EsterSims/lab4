@@ -8,7 +8,6 @@ It is a self-contained library in pure PHP with no external dependencies.
 It has many complicated functions
 
 Setup
-
 Add the library to your composer.json file in your project:
 
 {
@@ -16,6 +15,7 @@ Add the library to your composer.json file in your project:
       "markrogoyski/math-php": "0.*"
   }
 }
+
 Use composer to install the library:
 
 $ php composer.phar install
