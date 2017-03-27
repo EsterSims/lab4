@@ -27,5 +27,5 @@ Then you can add the following to your .php files to use the library with Autolo
 require_once(__DIR__ . '/vendor/autoload.php');
 
 
-Minimum Requirements
+Minimum Requirements:
 PHP 7
